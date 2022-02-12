@@ -1,0 +1,53 @@
+.nav{
+    padding-left: 100px;
+}
+
+.container{
+    margin-top: 5px;
+}
+.col h5{
+    margin-top: px;
+}
+
+.container{
+     cursor:initial;
+}
+.nav ul li a{
+    cursor:pointer;
+    color: blue;
+}
+.nav ul li a :hover{
+    color: red;
+}
+.card h5{
+    margin-top: 20px;
+    
+}
+.nav-item {
+    font-size: 22px;
+   margin-top: 4px;
+}
+
+.col h3{
+    color: red;
+}
+.card-a{
+    background-color: rgb(220, 244, 245);
+}
+.lead{
+    font-size: 20px;
+}
+.exp h3{
+    margin-top: 11px;
+    margin-left:115px;
+    color: red;
+}
+.exp .container{
+    background-color: rgb(220, 244, 245) ;
+}
+body{
+    background-color:rgb(220, 244, 245) ;
+}
+.card-a{
+    background-color: white;
+}
